@@ -1,8 +1,8 @@
 # About-Me
-•	👋 Hi, I’m Kashyap Upadhyay.
-•	👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
-•	🌱 I’m currently pursuing Master's in Mechatronics.
-•	🚗 The projects that I have worked on are:
+-	👋 Hi, I’m Kashyap Upadhyay.
+-	👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
+-	🌱 I’m currently pursuing Master's in Mechatronics.
+-	🚗 The projects that I have worked on are:
 ##Deep Learning:
 1.Classification of MNIST dataset
 ##Autonomous Driving:
