@@ -4,7 +4,7 @@
 -	🌱 I’m currently pursuing Master's in Mechatronics.
 -	🚗 The projects that I have worked on are:
 - Deep Learning:
--- Classification of MNIST dataset
+-  Classification of MNIST dataset
 - Autonomous Driving:
 - Steering Angle Correction Using Deep Learning for Autonomous Driving
 - Lane Detection
